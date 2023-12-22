@@ -6,6 +6,7 @@
  -https://daffanh.wordpress.com/2023/12/18/computasional-thinking/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+ -https://daffanh.wordpress.com/2023/12/18/mencapai-pertumbuhan/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
