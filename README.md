@@ -13,6 +13,7 @@
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+https://youtu.be/dR5Ys9N4XNs?si=Rd4u3-PvyUNMKuif
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
