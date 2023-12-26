@@ -9,6 +9,7 @@
  -https://daffanh.wordpress.com/2023/12/18/mencapai-pertumbuhan/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+ - https://youtu.be/Do88sGR4tv0?si=zeQlUdHN8TL3s-6n
 
 ## Mencoba Console Sistem Operasi
 
