@@ -37,6 +37,7 @@ Referensi [1](https://scratch.mit.edu/)
   - https://daffanh.wordpress.com/2023/12/26/bubble-sort-by-java/
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+https://youtu.be/hQczqlaPZhc?si=XZD9lYzO0eJVi9w1
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 https://youtu.be/pGcFu0G_MdQ?si=QW2yriz7mHWDfmVr
