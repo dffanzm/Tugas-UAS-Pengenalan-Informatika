@@ -85,6 +85,10 @@ Referensi tutorial
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+ ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/a26954e9-c284-4c4d-ae97-e83560805eb8)
+ ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/5553bee3-3365-4123-a2b2-83e4a39e0d66)
+
+
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
