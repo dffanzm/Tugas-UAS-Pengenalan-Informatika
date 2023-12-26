@@ -45,6 +45,10 @@ https://youtu.be/pGcFu0G_MdQ?si=QW2yriz7mHWDfmVr
  https://youtu.be/rX8bE7-Lz4A
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/641d2be6-9c70-4bdc-a264-b567bd5101b3)
+![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/b5419729-da51-41f7-954d-8ce6f0dfd47c)
+
+
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
