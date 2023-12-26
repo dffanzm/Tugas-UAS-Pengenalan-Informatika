@@ -42,6 +42,7 @@ Referensi [1](https://scratch.mit.edu/)
 https://youtu.be/pGcFu0G_MdQ?si=QW2yriz7mHWDfmVr
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+ https://youtu.be/rX8bE7-Lz4A
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
