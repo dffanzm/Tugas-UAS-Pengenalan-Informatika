@@ -22,6 +22,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
  - https://youtu.be/WM4ae6G3piQ?si=YtgKk0ksDVAa6Ir3
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+-![Uploading Screenshot (107).png…]()
+
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
