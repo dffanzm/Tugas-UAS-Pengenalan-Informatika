@@ -22,10 +22,9 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
  - https://youtu.be/WM4ae6G3piQ?si=YtgKk0ksDVAa6Ir3
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-![Uploading Screenshot (107).png…]()
+![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/34236aac-b7ff-473e-bfeb-73261dc99e35)
 
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 https://youtu.be/Jhi2l7f7uWg
