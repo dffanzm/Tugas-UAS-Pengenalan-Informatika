@@ -37,6 +37,7 @@ Referensi [1](https://scratch.mit.edu/)
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+https://youtu.be/pGcFu0G_MdQ?si=QW2yriz7mHWDfmVr
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
