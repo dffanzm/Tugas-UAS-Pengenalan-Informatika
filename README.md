@@ -31,43 +31,7 @@ https://youtu.be/Jhi2l7f7uWg
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-public class buble {
-    public static void main(String[] args) {
-        int[] arr = {64, 34, 25, 12, 22, 11, 90};
-
-        System.out.println("Array sebelum diurutkan:");
-        printArray(arr);
-
-        bubbleSort(arr);
-
-        System.out.println("\nArray setelah diurutkan:");
-        printArray(arr);
-    }
-
-    // Metode untuk mengurutkan array menggunakan Bubble Sort
-    static void bubbleSort(int[] arr) {
-        int n = arr.length;
-        for (int i = 0; i < n-1; i++) {
-            for (int j = 0; j < n-i-1; j++) {
-                if (arr[j] > arr[j+1]) {
-                    // Tukar elemen jika diperlukan
-                    int temp = arr[j];
-                    arr[j] = arr[j+1];
-                    arr[j+1] = temp;
-                }
-            }
-        }
-    }
-
-    // Metode untuk mencetak elemen-elemen array
-    static void printArray(int[] arr) {
-        int n = arr.length;
-        for (int i = 0; i < n; ++i)
-            System.out.print(arr[i] + " ");
-        System.out.println();
-    }
-}
-
+  - https://daffanh.wordpress.com/2023/12/26/bubble-sort-by-java/
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
