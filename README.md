@@ -166,3 +166,8 @@ https://youtu.be/5SqFu0FqL24
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+           KISAH NAB YUNUS A.S
+ Nah seperti kita ketahui nabi yunus di telan oleh ikan paus yang saangat besar karna tidak mau mendengarkan perintah Allah swt,Allah memerintahkan untuk berdakwah dan mengajak kaum nirwana di iraq untuk menyembah Allah dan meninggalkan behala berhala namun nabi yunus di tolak oleh mereka,Nabi Yunus merasa marah dan kecewa dengan sikap kaumnya yang tidak mau mendengarkan seruannya. Kemudian, Nabi Yunus meninggalkan kaumnya dengan menaiki sebuah kapal,nah pas di tengah perjalanan terjadi ombak yang sangat deeras mau tidak mau harus menjatuhkan salah satu dari mereka,mereka pun melakukan pengundian agar salah satu dari mereka keluar dari kapal ,Setelah dilakukan beberapa kali pengundian, yang keluar tetaplah nama Nabi Yunus.Sehingga Nabi Yunus melompat dari kapal dan akhirnya ditelan oleh ikan besar.
+
+ nah kemudian nabi yunus menyadari kesalahannya dan bertaubat kpd Allah swt,dan Allah pun menerima taubat dari nabi yunus, sehingga mengekluarkannya dari perut ikan paus tersebut, dan akhirnya nabi yunus kembali kepada kaumnya dan mencoba kembali menyampaikan apa yang telah di perintahkan oleh Allah, dan akhirnya kaumnya pun mau beriman kepada Allah.
+ 
