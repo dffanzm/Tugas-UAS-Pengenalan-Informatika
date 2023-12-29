@@ -128,8 +128,10 @@ https://youtu.be/5SqFu0FqL24
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+ https://youtu.be/tj7UCM6Ag4M
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+ https://youtu.be/tj7UCM6Ag4M
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
