@@ -115,6 +115,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 https://daffanh.wordpress.com/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+   ![Uploading image.png…]()
+
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 https://youtu.be/5SqFu0FqL24
