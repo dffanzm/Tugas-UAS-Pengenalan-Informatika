@@ -127,6 +127,7 @@ https://youtu.be/5SqFu0FqL24
 
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+  https://drive.google.com/file/d/1I78WqIhkP2EqMtaMI43SykoLFj15QrIY/view?usp=sharing
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
    ![Uploading image.png…]()
