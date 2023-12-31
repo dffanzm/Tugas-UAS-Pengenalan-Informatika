@@ -116,7 +116,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 https://daffanh.wordpress.com/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-   ![Uploading image.png…]()
+   ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/26057b24-f0b0-422f-9a59-92c6adb8c896)
 
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
@@ -127,6 +127,8 @@ https://youtu.be/5SqFu0FqL24
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+   ![Uploading image.png…]()
+
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
