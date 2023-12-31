@@ -159,6 +159,7 @@ https://youtu.be/5SqFu0FqL24
  - https://youtu.be/tEP2VSbWUCI?si=3tWvBKNKF0rTUS2p
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+    https://youtu.be/_C4ZBmndN44
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
  - https://youtu.be/cQhku_NdWg4?si=YgNcekJ1zy7XMtyl
@@ -175,8 +176,11 @@ https://youtu.be/5SqFu0FqL24
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+    https://youtu.be/_C4ZBmndN44
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+
+    https://youtu.be/_C4ZBmndN44
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 -https://youtu.be/yoes0eJPCPM
