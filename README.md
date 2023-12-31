@@ -130,7 +130,7 @@ https://youtu.be/5SqFu0FqL24
   https://drive.google.com/file/d/1I78WqIhkP2EqMtaMI43SykoLFj15QrIY/view?usp=sharing
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-   ![Uploading image.png…]()
+   ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/3362c581-ce59-4dde-92a5-e023358ceef6)
 
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
@@ -154,6 +154,8 @@ https://youtu.be/5SqFu0FqL24
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+   ![Uploading image.png…]()
+
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
