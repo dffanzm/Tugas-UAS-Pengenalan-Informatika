@@ -123,6 +123,8 @@ https://daffanh.wordpress.com/
 https://youtu.be/5SqFu0FqL24
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+   ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/adebcc13-0fb3-4b21-b80c-6dd56ba2df99)
+
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
