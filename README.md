@@ -158,6 +158,26 @@ https://youtu.be/5SqFu0FqL24
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+1. Jurnal :
+   - Definisi: Sebuah jurnal adalah publikasi periodik yang memuat artikel-artikel ilmiah, laporan penelitian, dan tulisan lainnya dalam bidang akademis atau profesional.
+   - Tujuan: Memberikan platform bagi peneliti, akademisi, dan profesional untuk berbagi hasil penelitian, pemikiran, dan temuan terkini.
+   - Peer Review: Artikel yang diajukan untuk diterbitkan dalam jurnal sering kali melewati proses tinjauan oleh pakar independen (peer review) sebelum diterima untuk publikasi. Ini memastikan kualitas dan keandalan penelitian.
+
+2. Conference (Konferensi):
+   - Definisi: Konferensi adalah pertemuan yang dihadiri oleh para ahli, peneliti, dan profesional dari suatu bidang tertentu untuk berbagi pengetahuan, hasil penelitian, dan pemikiran terkini.
+   - Tujuan: Membuat forum interaktif untuk berdiskusi, membangun jaringan, dan memperkenalkan ide-ide baru dalam suatu disiplin ilmu.
+   - Presentasi: Peserta konferensi dapat menyampaikan makalah, presentasi lisan, atau poster untuk berbagi penelitian atau pengalaman mereka.
+
+3. Artikel:
+   - Definisi: Artikel adalah karya tulis yang menyajikan informasi, analisis, atau pandangan tertentu mengenai suatu topik.
+   - Format: Artikel ilmiah biasanya memiliki struktur yang terorganisir, termasuk abstrak, pendahuluan, metode penelitian (jika ada), hasil, pembahasan, dan daftar pustaka.
+   - Tujuan: Menyampaikan informasi baru, mengembangkan argumen, atau memberikan pandangan kritis tentang suatu isu.
+
+4. Grade Jurnal :
+   - Definisi: Sistem penilaian yang digunakan untuk mengklasifikasikan jurnal ilmiah berdasarkan kualitas, reputasi, dan dampaknya dalam masyarakat ilmiah.
+   - Kriteria Penilaian: Faktor yang dapat dipertimbangkan meliputi faktor dampak (impact factor), reputasi penyuntingan, tingkat kutipan, dan kualitas tinjauan sejawat (peer review).
+   - Klasifikasi: Jurnal dapat diberi peringkat sebagai jurnal internasional, nasional, atau regional berdasarkan faktor-faktor tersebut.
+
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
