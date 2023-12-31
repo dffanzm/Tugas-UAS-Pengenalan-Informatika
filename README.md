@@ -154,10 +154,14 @@ https://youtu.be/5SqFu0FqL24
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-   ![Uploading image.png…]()
+   ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/7251cdb3-74f4-4b4b-823f-dd63a4808974)
 
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+   ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/61d0654e-36c7-4074-90a5-063adb6028e3)
+   ![Uploading image.png…]()
+
+
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 1. Jurnal :
