@@ -134,8 +134,10 @@ https://youtu.be/5SqFu0FqL24
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+  https://youtu.be/GdWANahLfuE
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+  https://youtu.be/GdWANahLfuE
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
  https://youtu.be/tj7UCM6Ag4M
