@@ -159,7 +159,9 @@ https://youtu.be/5SqFu0FqL24
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
    ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/61d0654e-36c7-4074-90a5-063adb6028e3)
-   ![Uploading image.png…]()
+   
+   ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/f28d9555-503c-414a-a9f4-9e3cdba41078)
+
 
 
 
