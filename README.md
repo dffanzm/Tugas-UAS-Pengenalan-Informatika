@@ -157,6 +157,7 @@ https://youtu.be/5SqFu0FqL24
  https://youtu.be/tj7UCM6Ag4M
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+  https://youtube.com/shorts/8h9hhbZr4Cs?feature=share
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
    ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/7251cdb3-74f4-4b4b-823f-dd63a4808974)
