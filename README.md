@@ -202,6 +202,7 @@ https://youtu.be/5SqFu0FqL24
  - https://youtu.be/cQhku_NdWg4?si=YgNcekJ1zy7XMtyl
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+  LINK YT https://youtu.be/kYF2hnqWCWg
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
  https://youtu.be/isF5MteOBP0
@@ -211,6 +212,9 @@ https://youtu.be/5SqFu0FqL24
  https://youtu.be/isF5MteOBP0
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+
+  https://youtu.be/ZMWTH_g95hk
+ 
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
     https://youtu.be/_C4ZBmndN44
@@ -223,6 +227,11 @@ https://youtu.be/5SqFu0FqL24
 -https://youtu.be/yoes0eJPCPM
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+  ![image](https://github.com/dffanzm/Tugas-UAS-Pengenalan-Informatika/assets/144572098/3eaaa3e7-2276-40cc-85cc-d599ae1840eb)
+  Ini code jam academy
+  Tema : web development
+  ya event ini bertujuan untuk memnbantu para mahasiswa untuk menambah ilmu & pengetahuan diluar dari mata kuliah serta difokuskan dalam hal praktik
+
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
            KISAH NAB YUNUS A.S
